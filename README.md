@@ -44,9 +44,3 @@ This project was developed to:
 - **Tailwind CSS** – Utility-first CSS framework
 - **Material UI (MUI)** – React UI library for fast, beautiful components
 - **React Router DOM** – Declarative routing for React apps
-
----
-
-## 🙌 Acknowledgements
-
-Special thanks to **Shiva Kumar Sir** for guidance and mentorship throughout the learning journey. His training played a key role in shaping this project and improving frontend proficiency.
