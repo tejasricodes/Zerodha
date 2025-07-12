@@ -1,12 +1,42 @@
-# React + Vite
+# Zerodha Clone – Frontend UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and visually polished clone of the Zerodha trading platform built with **React**, **Tailwind CSS**, **Material UI**, and **React Router DOM**. This project focuses on recreating the user interface to closely resemble the real-world Zerodha experience, emphasizing design consistency and seamless navigation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Responsive layout inspired by Zerodha’s UI
+- Utility-first styling with **Tailwind CSS**
+- Pre-built, production-ready components using **Material UI**
+- Client-side routing with **React Router DOM**
+- Effective use of **props** and **state** for dynamic interaction
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Project Purpose
+
+This project was developed to:
+
+- Strengthen frontend development skills
+- Explore and implement routing and layout architecture
+- Experiment with clean and reusable component structures
+- Deliver a real-world style UI without backend dependencies
+
+> **Note:** This is a frontend-only project. No real-time market data or backend functionality is included.
+
+---
+
+## 📚 Tech Stack
+
+- **React** – Component-based JavaScript library
+- **Tailwind CSS** – Utility-first CSS framework
+- **Material UI (MUI)** – React UI library for fast, beautiful components
+- **React Router DOM** – Declarative routing for React apps
+
+---
+
+## 📌 Tags
+
+`#ReactJS` `#TailwindCSS` `#MaterialUI` `#ReactRouterDOM` `#FrontendDevelopment` `#ZerodhaClone`
+
